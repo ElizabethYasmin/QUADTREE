@@ -5,7 +5,7 @@
 [![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/ElizabethYasmin)
 [![REPOSITÓRIO](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/ElizabethYasmin/EDA)
 
-![image](https://github.com/ElizabethYasmin/ADA-PROYECT/blob/master/presentacion.gif)
+![image](https://github.com/ElizabethYasmin/QUADTREE/blob/master/presentacion.gif)
 
 ## Menu
 - [Huanca Parqui, Elizabeth Yasmin](#Huanca)
